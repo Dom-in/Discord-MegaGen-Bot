@@ -1,0 +1,24 @@
+{ 
+	"token"  : "BOT_TOKEN_HERE",
+	"prefix" : "-",
+	"OwnerID": "YOUR_ID",
+	"gameloopinterval": 200000,
+	"gameloop": [
+		{
+			"text": "my dev, Maxime#5657",
+			"type": "LISTENING"
+		},
+		{
+			"text": "potatoes!",
+			"type": "WATCHING"
+		},
+		{
+			"text": "you all",
+			"type": "WATCHING"
+		},
+		{
+			"text": "in discord.gg/qMceHPt",
+			"type": "PLAYING"
+		}
+	]
+  }
